@@ -11,7 +11,7 @@
     </parent>
     <groupId>org.example</groupId>
     <artifactId>ExamenMocDSF</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-Snapshot</version>
     <name>ExamenMocDSF</name>
     <description>Demo project for Spring Boot</description>
 
